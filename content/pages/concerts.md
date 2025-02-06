@@ -16,7 +16,7 @@ sections:
         tagline: This is the tagline
         subtitle: '8 de Febrer, 20:00h'
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Y es gratuït... *a quien no le va a gustar*
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
