@@ -751,5 +751,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:title'
+      content: LESPURNA
 type: PageLayout
 ---
