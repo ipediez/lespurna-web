@@ -19,7 +19,6 @@ sections:
           Y es gratuït... *a quien no le va a gustar*
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
           altText: Placeholder text
           styles:
             self:
