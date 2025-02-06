@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Potries
+        title: Porrat de Potries
         subtitle: '20:00'
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
