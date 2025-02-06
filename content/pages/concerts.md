@@ -36,7 +36,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: MujerBarbuda
+        title: Alcoi
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
