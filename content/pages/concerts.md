@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Porrat de Potries
-        tagline: La pla
+        tagline: La festa del porrat
         subtitle: '8 de Febrer, 20:00h'
         text: |
           Y es gratuït... *a quien no le va a gustar*
