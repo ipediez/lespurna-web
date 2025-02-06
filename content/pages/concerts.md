@@ -34,6 +34,15 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - type: Button
+        label: Get started
+        altText: ''
+        url: brokenlink.com
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - type: FeaturedItem
         title: Alcoi
         tagline: La Mujer Barbuda
@@ -58,16 +67,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: brokenlink.com
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     elementId: ''
     variant: small-list
     colors: bg-light-fg-dark
