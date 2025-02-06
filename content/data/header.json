@@ -40,7 +40,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Concerts",
             "altText": "",
             "url": "/concerts",
             "showIcon": false,
