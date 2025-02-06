@@ -23,7 +23,13 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - label: Buy tickets
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            type: Button
         colors: bg-light-fg-dark
         styles:
           self:
