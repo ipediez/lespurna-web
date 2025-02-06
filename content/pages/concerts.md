@@ -43,7 +43,6 @@ sections:
           de la [fila 0 solidaria](brokenlink.com) per la DANA
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
           altText: Placeholder text
           styles:
             self:
