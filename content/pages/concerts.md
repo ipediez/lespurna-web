@@ -37,7 +37,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Alcoi
-        tagline: This is the tagline
+        tagline: La Mujer Barbuda
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
