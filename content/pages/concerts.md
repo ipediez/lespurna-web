@@ -38,7 +38,7 @@ sections:
       - type: FeaturedItem
         title: Alcoi
         tagline: La Mujer Barbuda
-        subtitle: 29 de Mar
+        subtitle: '29 de Març, ??'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
