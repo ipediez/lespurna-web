@@ -14,7 +14,7 @@ sections:
       - type: FeaturedItem
         title: Porrat de Potries
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: '8 de Febrer, 20:00h'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
