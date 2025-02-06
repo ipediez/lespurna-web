@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Lespurna
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Grup de rock de Val
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
