@@ -744,7 +744,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Lespurna
+  metaTitle: LESPURNA
   metaDescription: 'Grup de rock de València. Descobreix la seua música, concerts i novetats ací'
   socialImage: /images/main-hero.jpg
   type: Seo
