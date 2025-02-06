@@ -39,8 +39,10 @@ sections:
         title: Alcoi
         tagline: La Mujer Barbuda
         subtitle: '29 de Març, ??'
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Entrades disponibles ya a ticketmaster, o participa de la fila 0
+          solidaria per la DANA
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
