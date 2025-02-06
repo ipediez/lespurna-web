@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Proxims concerts
+      text: Concerts
       color: text-dark
       styles:
         self:
