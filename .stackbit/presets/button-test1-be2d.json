@@ -1,0 +1,28 @@
+{
+    "model": "Button",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "test1",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Button"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Get started",
+                "altText": "",
+                "url": "brokenlink.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            "thumbnail": "images/button-test1-be2d.png"
+        }
+    ]
+}
