@@ -12,8 +12,8 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Porrat de Potries
-        tagline: La festa del porrat
+        title: Potries
+        tagline: Porrat de Potries
         subtitle: '8 de Febrer, 20:00h'
         text: |
           Y es gratuït... *a quien no le va a gustar*
@@ -24,11 +24,11 @@ sections:
             self:
               borderRadius: x-large
         actions:
-          - label: Buy tickets
+          - label: Comprar entrades
             url: /
             icon: arrowRight
             iconPosition: right
-            style: secondary
+            style: primary
             type: Button
         colors: bg-light-fg-dark
         styles:
@@ -53,7 +53,19 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - label: Comprar entrades
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            type: Button
+          - label: Comprar fila 0
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            type: Button
         colors: bg-light-fg-dark
         styles:
           self:
@@ -64,16 +76,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: brokenlink.com
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     elementId: ''
     variant: small-list
     colors: bg-light-fg-dark
