@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Porrat de Potries
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
