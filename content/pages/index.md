@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Lespurna
-  metaDescription: Grup de rock de Val
+  metaDescription: Grup de rock de València. Descobreix la seua m
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
