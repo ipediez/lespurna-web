@@ -748,9 +748,6 @@ seo:
   metaDescription: 'Grup de rock de València. Descobreix la seua música, concerts i novetats ací'
   socialImage: /images/main-hero.jpg
   type: Seo
-  metaTags:
-    - type: MetaTag
-      property: 'og:title'
-      content: LESPURNA
+  metaTags: []
 type: PageLayout
 ---
